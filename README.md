@@ -15,15 +15,3 @@ Olá! Meu nome é Nathan e sou do Brasil, residente no estado de São Paulo. Pos
 ## 🌐 Redes sociais:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan--rocha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nathanrochasouza123@gmail.com) 
-
-
-
-
-
-# 📊 Estatísticas do GitHub:
-
-![](https://github-readme-stats.shion.dev/api?username=NathanRochaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://streak-stats.demolab.com/?user=NathanRochaDev&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=NathanRochaDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
